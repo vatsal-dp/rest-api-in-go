@@ -5,8 +5,10 @@
 ![JWT Auth](https://img.shields.io/badge/Auth-JWT-purple?logo=jsonwebtokens)
 
 sqlite3 database added till now
-  - allows to add, update, get, delete events.
+
+- allows to add, update, get, delete events.
+- user accounts
 
 todo
-  - user account
-  - jwt
+
+- jwt
